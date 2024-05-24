@@ -3,7 +3,7 @@
 ## Getting Started
 
 ```
-npx degit colbyfayock/demo-event-schedule-starter#main my-calender-button
+npx degit Frontend-Nation/react-exercise-colby-fayock#main my-calender-button
 cd my-calender-button
 
 npm install
